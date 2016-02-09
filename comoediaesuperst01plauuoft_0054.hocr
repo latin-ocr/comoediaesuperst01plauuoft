@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediaesuperst01plauuoft_0054.png"; bbox 0 0 1650 2826; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 671 371 1104 423">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 671 371 1104 423">
+     <span class='ocr_line' id='line_1_1' title="bbox 671 371 1104 423; baseline 0.009 -4"><span class='ocrx_word' id='word_1_1' title='bbox 671 371 866 419; x_wconf 87' lang='lat' dir='ltr'><em>VOL.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 943 374 1104 423; x_wconf 86' lang='lat' dir='ltr'><strong><em>III.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 239 521 1102 815">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 239 521 1102 815">
+     <span class='ocr_line' id='line_1_2' title="bbox 239 521 1027 571; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 239 521 347 570; x_wconf 90' lang='lat' dir='ltr'><strong>XV.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 452 521 1027 571; x_wconf 92' lang='lat' dir='ltr'><strong>POENULUS.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 240 602 1102 653; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 240 602 372 650; x_wconf 90' lang='lat' dir='ltr'>XVI.</span> <span class='ocrx_word' id='word_1_6' title='bbox 453 602 1102 653; x_wconf 90' lang='lat' dir='ltr'><strong>PSEUDOLUS.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 239 683 889 735; baseline 0.005 -4"><span class='ocrx_word' id='word_1_7' title='bbox 239 683 889 735; x_wconf 86' lang='lat' dir='ltr'>XVII.RUDENS.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 240 761 939 815; baseline 0.01 -7"><span class='ocrx_word' id='word_1_8' title='bbox 240 761 939 815; x_wconf 88' lang='lat' dir='ltr'>XVIII.STICHUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 239 843 1263 981">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 239 843 1263 981">
+     <span class='ocr_line' id='line_1_6' title="bbox 239 843 1118 897; baseline 0.008 -7"><span class='ocrx_word' id='word_1_9' title='bbox 239 843 375 891; x_wconf 89' lang='lat' dir='ltr'><strong>XIX.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 454 845 1118 897; x_wconf 91' lang='lat' dir='ltr'><strong>TRINUMMUS.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 240 925 1263 981; baseline 0.006 -8"><span class='ocrx_word' id='word_1_11' title='bbox 240 925 352 973; x_wconf 89' lang='lat' dir='ltr'><strong>XX.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 456 925 1263 981; x_wconf 82' lang='lat' dir='ltr'><strong>TRUGULENTUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 709 1182 1036 1197">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 709 1182 1036 1197">
+     <span class='ocr_line' id='line_1_8' title="bbox 709 1182 1036 1197; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 709 1182 1036 1197; x_wconf 73' lang='lat'><strong>———</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
